@@ -31,7 +31,7 @@
   - 绘制矩阵：
 
     | 知识领域 | 项目规划过程组 | SG1(Establish Estimates 项目估算) | SG2(Develop a Project Plan 制定项目计划) | SG3(Obtain Commitment to the Plan 获得对计划的承诺) |
-    |:------:|:------|:------:|:------:|:------:|
+    |:------:|:------|:------|:------|:------|
     | 项目整合管理 | 制定项目管理计划 |  | SP2.3 Plan for Data Management 项目数据的管理计划 |  |
     | 项目范围管理 | 规划范围管理<br>收集需求<br>定义范围<br>创建WBS | SP 1.1 Estimate the Scope of the Project 估算项目的范围<br>SP1.2 Establish Estimates of Work Product and Task Attributes 估算项目属性 |  |  |
     | 项目进度管理 | 规划进度管理<br>定义活动<br>排列活动顺序<br>估算活动持续时间<br>指定进度计划 | SP1.3 Define Project Lifecycle 定义项目生存周期阶段 |  |  |
