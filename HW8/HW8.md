@@ -66,7 +66,7 @@
     
     ![题3](./assets/problem3.png)
 
-  - 使用python，详见[代码](.assets/dice.py)(可修改投掷次数)，下面是投掷30次的时候
+  - 使用python，详见[代码](./dice.py)(可修改投掷次数)，下面是投掷30次的时候
 
     - 柱状图
 
